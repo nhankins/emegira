@@ -1,7 +1,7 @@
 # Emegira Project Prototype
 The name for this project derives from my creative interpretation of the literal translation for the Sumerian word for the Sumerian Language : 𒅴𒂠 (Emeg̃ir), meaning "Native Tongue."
 
-# Goal
+# Goal:
 Create an LLM Language Learning tool that enables users to streamline their language acquistion process. 
 
 # Topics to Explore: 
