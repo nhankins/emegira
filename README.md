@@ -8,7 +8,7 @@ Create an LLM Language Learning tool that enables users to streamline their lang
 RAG (include custom notes), DDL (Data Driven Learning) with Corpora), Lesson Planning, Prompting Custom Study Goals to an LLM 
 
 # Roadmap:
-- Use this Github page to track resources, progress, and sucesses. Ideally will be able to expand to other different languages and streamline the task for other users.
+- Use this Github page to track/add resources, progress, and sucesses. Ideally will be able to expand to other different languages and streamline the task for other users.
 
 - Will start with learning Chinese for taking the HSK 4 test.
   
