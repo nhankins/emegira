@@ -1,0 +1,142 @@
+Chinese grammar de particles summary: 的, 地 and 得
+In Chinese grammar de particles are an important topic to learn. The three de particles are 的, 地 and 得 and each has very different uses. In fact, the only similarity is that each is pronounced de. However, they are often grouped together in textbooks and classes, so it's helpful for many students to have a clear summary like the one below.
+Chinese grammar de particle #1: 的
+The first de particle that most people learn is 的. This de is called 白勺的 (báisháo de) in Chinese, as those are the components that make up the character. By number, it's the most common character in Chinese texts.
+的 is probably the easiest to understand of the three de particles. It is used to mark possession, and works almost exactly like ‘s (apostrophe + s) in English.
+的 comes after the possessor and before the thing that's possessed. Let's have a look at some basic examples:
+我的书
+wǒ de shū
+my book
+你的猫
+nǐ de māo
+your cat
+他的包
+tā de bāo
+his bag
+We think it's better to learn grammar by using full example sentences, so here are some simple sentences with 的:
+这是你的书。
+Zhè shì nǐ de shū.
+This is your book.
+那不是我的问题。
+Nà bùshì wǒ de wèntí.
+That isn't my problem.
+这是中国的产品。
+Zhè shì Zhōngguó de chǎnpǐn.
+This is a Chinese product.
+You can see in the examples how 的 goes in between the owner of the item and the item itself. It is almost like the English word “of” but it works in reverse.
+It's important to note, though, that Chinese uses possession far more than English. Chinese uses the possessive 的 particle to link qualities to anything, not just objects to their owners. For example:
+红色的苹果
+hóngsè de píngguǒ
+red apple
+漂亮的女孩
+piàoliang de nǚhái
+pretty girl
+他喜欢可爱的动物。
+Tā xǐhuan kě'ài de dòngwù.
+He likes cute animals.
+我害怕很大的狗。
+Wǒ hàipà hěn dà de gǒu.
+I'm afraid of big dogs.
+Notice how 的 is used to link attributes to things. “Red apple” is literally expressed as “red's apple”, or “the apple of red”. Similarly “pretty girl” is “girl of pretty”, and so on. More advanced learners might be interested in this list of nouns containing 的.
+de particle #2: 地
+This de particle probably isn't used quite as much as the other two, but it tends to be a bit easier for English speakers to understand. 地 is called 土也地 (tǔyě de) in Chinese, again because those are the components that form the character. Note that whilst 地 is pronounced dì for other uses, when used as a particle it's pronounced de.
+地 behaves very much like the suffix -ly in English. That is, it marks adverbs, or converts adjectives into adverbs. Some examples:
+慢慢地
+mànmande
+slowly
+准确地
+zhǔnquède
+correctly
+好心地
+hǎoxīnde
+kindly
+And some full example sentences:
+他很快地吃饭。
+Tā hěn kuài de chīfàn.
+He eats quickly.
+他很有希望地看着我。
+Tā hěn yǒu xīwàng de kànzhe wǒ.
+He looked at me hopefully.
+你应该小心地处理这件事。
+Nǐ yīnggāi xiǎoxīn de chǔlǐ zhè jiàn shì.
+You should deal with this issue carefully.
+Notice how 地 can convert whole verbal phrases (很有希望 and 小心地) into adverbs in the example sentences above.
+de particle #3: 得
+The third and final de particle is probably the most difficult for English speakers to get used to. It's called 双人得 (shuāngrén de) because the 彳 radical it contains is often referred to as 双人 - “double person”.
+This 得 is used as part of various verbal complements. That probably doesn't mean a lot to you if you haven't studied grammar before. A complement is something that appears right after the verb and adds more information about it.
+Verbal complements in Chinese can be categorized in many different ways depending on who you ask, but here's one way to do it:
+	•	Direction complement
+	•	Potential complements
+	•	Degree complements
+	•	Result complements
+Rather than trying to analyze all of these, though, we'll break down the two that involve 得: potential complements and degree complements.
+得 de in potential complements
+The potential complement is attached to a verb to show its potential. That is, the potential complement indicates whether an action can or can't happen. If the action can happen, 得 is used. If it can't happen, 不 is used.
+Some examples of actions that can happen (with 得):
+做得到
+zuò de dào
+can do
+听得懂
+tīng de dǒng
+can understand (from listening)
+看得懂
+kàn de dǒng
+can understand (from reading)
+看得清楚
+kàn de qīngchu
+can see clearly
+And some examples of actions that can't happen (with 不):
+做不到
+zuò bu dào
+can't do
+听不懂
+tīng bu dǒng
+can't understand (from listening)
+看不懂
+kàn bu dǒng
+can't understand (from reading)
+看不清楚
+kàn bu qīngchu
+can't see clearly
+There's a huge variety of things that can come after the 得 or 不. Remember that with the potential complement, the action is hypothetical. It hasn't been done, or attempted and failed. The potential complement merely indicates what would happen if the action were attempted.
+Some full examples sentences of the potential complement:
+我只有戴眼镜的话才看得清楚。
+Wǒ zhǐyǒu dài yǎnjìng dehuà cái kàn de qīngchu.
+I can only see clearly if I wear my glasses.
+这么多饭 - 你能吃得完吗？
+Zhème duō fàn - nǐ néng chī de wán ma?
+There's so much food - can you eat it all?
+太晚了，机票都买不到了。
+Tài wǎnle, jīpiào dōu mǎi bù dàole.
+It's too late - we won't be able to buy plane tickets now.
+We won't go into the potential complement in more detail here, as this is just a summary of Chinese de particles. Also remember that you shouldn't spend too much time trying to analyze grammar. It's far more effective to listen to a lot of real Chinese and try to use it as much as possible. Use this site as a reference to get some basic understanding, then get out there and use your Chinese in the real world!
+得 de in degree complements
+The other kind of verbal complement that 得 appears in is the degree complement. This complement appears similar to the potential complement described above, but it's not the same. The degree complement is the most general-purpose of the verbal complements in Chinese, and is used simply to add descriptive information to the verb or to talk about the extent (the degree) the action goes to.
+This is quite vague, unfortunately, but it's about as specific as you can get with the degree complement. As usual, we think it's best to just get as much exposure to real language and get a feel for it, rather than trying to analyze and memorize grammar structures. But it's helpful to have a basic grasp of the grammar before you set off on your quest, so read on.
+The degree complement always uses 得, and the basic structure is:
+[verb] 得 [description]
+There's huge scope for what you can put in the [verb] and [description] slots, but it tends to be some sort of comment or description of the action in the verb. It is also used to talk about the degree to which the action happens, hence the name. Let's have a look at some example sentences:
+你说得非常好。
+Nǐ shuō de fēicháng hǎo.
+You said it very well.
+他做得不好。
+Tā zuò dé bu hǎo.
+He did it badly.
+她长得很高。
+Tā zhǎng de hěn gāo.
+She has grown very tall.
+Again, we won't go into too much detail about the degree complement here, as this is just a summary of Chinese de particles.
+Other kinds of 得
+Just so you know, the character 得 isn't just a particle. It has two other pronunciations, each with different uses.
+得 as dé
+When 得 is pronounced dé in second tone, it's a verb meaning “to get” or “to acquire”.
+得 as děi
+When 得 is pronounced děi in third tone, it's a modal verb meaning “must” or “have to”.
+Chinese grammar de particles quick summary
+Now let's recap with a very short summary of the Chinese de particles.
+	•	的 is marks possession
+	•	地 marks adverbs
+	•	得 appears in verbal complements
+	◦	the potential complement
+	◦	the degree complement
+ 
