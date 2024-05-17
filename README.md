@@ -13,7 +13,12 @@ RAG (include custom notes), DDL (Data Driven Learning) with Corpora, Lesson Plan
 - Ollama facilitates local open-source LLM deployment and hosts Yi (https://ollama.com/library/yi), which is a series of large language models trained on a high-quality corpus of 3 trillion tokens that support both the English and Chinese languages.
 
 
+# Progress:
+
+5/17/24: Successfully modified code template from Youtuber Shaw Talebi for this use case. Will post finished notebook of progress in notebooks folder when ready. Will probably make Discord server soon to track these changes.
+
+
 # Data Sources:
 
-...
+Available for viewing in rag_sources.txt file.
 
